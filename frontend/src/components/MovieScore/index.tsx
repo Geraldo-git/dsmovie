@@ -1,5 +1,5 @@
 import MovieStars from "components/MovieStars"
-import { setCommentRange } from "typescript"
+
 import './styles.css'
 
 type Props = {
